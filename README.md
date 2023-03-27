@@ -10,3 +10,5 @@ Run jupyter from a terminal "jupyter notebook" , open the jupyter notebook examp
 Try to run the examples using mono, stereo and 4 channels wave files of recorded sweeps. Some examples of these are provided in the folder as well as the original sweep mono file. 
 
 This code generates IR files with the same number of channels and order than the recorded sweep you are using.
+
+You can use the calculated .wav file with plugins like MatrixConv (https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#matrixconv) for adding an ambisonics room to a track in real time. 
