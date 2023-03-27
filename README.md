@@ -11,4 +11,4 @@ Try to run the examples using mono, stereo and 4 channels wave files of recorded
 
 This code generates IR files with the same number of channels and order than the recorded sweep you are using.
 
-You can use the calculated .wav file with plugins like MatrixConv (https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#matrixconv) for adding an ambisonics room to a track in real time. 
+You can use the calculated .wav file with plugins like MatrixConv (https://leomccormack.github.io/sparta-site/docs/plugins/sparta-suite/#matrixconv) in combination with HO-SIRR (https://leomccormack.github.io/sparta-site/docs/plugins/hosirr/) for adding an ambisonics room to your track in real time. 
